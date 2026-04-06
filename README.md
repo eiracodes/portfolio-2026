@@ -22,7 +22,7 @@ As a Computer Science and Statistics student at **Christ University, Bangalore**
 
 ## 📍 Timeline
 - **July 2026 — Present:** Frontend Developer Intern @ **Appsmith**
-- **2024 — 2027:** BSc Computer Science & Statistics @ **Christ University**
+- **2026 — 2030:** BSc Computer Science & Statistics @ **Christ University**
 
 ## ✍️ Let's Connect
 I’m always open to discussing frontend architecture, statistical modeling, or the latest tech gadgets.
